@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou o Rafael</h1><br><br>
 
   - 🎓 Estudante de <strong>Engenharia de Software</strong> na Universidade Federal de Goiás <br/>
-  - 💻 Atualmente aprendendo <strong>ReactJS</strong>, <strong>Spring Boot</strong> e <strong>MySQL</strong> <br/>
+  - 💻 Atualmente aprendendo <strong>ReactJS</strong>, e <strong>MySQL</strong> <br/>
   - 🌱 Interesses: desenvolvimento web, APIs e sistemas inteligentes <br/>
   - 🚀 Objetivo: me tornar um desenvolvedor full-stack
 <br><br>
