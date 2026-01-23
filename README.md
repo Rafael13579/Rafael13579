@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou o Rafael</h1><br><br>
 
   - 🎓 Estudante de <strong>Engenharia de Software</strong> na Universidade Federal de Goiás <br/>
-  - 💻 Atualmente aprendendo <strong>ReactJS</strong>, e <strong>MySQL</strong> <br/>
+  - 💻 Atualmente aprendendo <strong>ReactJS</strong><br/>
   - 🌱 Interesses: desenvolvimento web, APIs e sistemas inteligentes <br/>
   - 🚀 Objetivo: me tornar um desenvolvedor full-stack
 <br><br>
@@ -12,7 +12,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
