@@ -1,4 +1,13 @@
-<h1 align="center">👋 Olá! Eu sou o Rafael</h1><br><br>
+<div align="center"><img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/babac393-4e94-4077-91bc-ef120935482f" /></div>
+
+<br>
+<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">
+</p>
+
+<br>
+<br>
 
   - 🎓 Estudante de <strong>Engenharia de Software</strong> na Universidade Federal de Goiás <br/>
   - 💻 Atualmente aprendendo <strong>ReactJS</strong><br/>
@@ -35,3 +44,10 @@
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+<br>
+<br>
+<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600">
+</p>
+
