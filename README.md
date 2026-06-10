@@ -12,7 +12,6 @@
   - 🎓 Estudante de <strong>Engenharia de Software</strong> na Universidade Federal de Goiás <br/>
   - 💻 Atualmente me aperfeiçoando em <strong>Microsserviços</strong><br/>
   - 🌱 Interesses: desenvolvimento web, APIs e sistemas inteligentes <br/>
-  - 🚀 Objetivo: conseguir minha primeira oportunidade profissional
 <br><br>
 
 
